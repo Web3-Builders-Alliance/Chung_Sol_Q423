@@ -1,0 +1,2 @@
+mintAddress = 6HUgTG9S3ybExn9ZdbkrPzHh3sPMum3U72zGzfAuPAv5
+tx = 5Zb8oeweoWYuqNdSqhxdSoQnHHeCYDM47TV66XTLUT5LJpUpJt4D19D9jm5VZzmYvNchqED84Kk38WF6sosGTbsq
