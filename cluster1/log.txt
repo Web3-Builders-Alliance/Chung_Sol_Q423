@@ -8,3 +8,5 @@ nft-mint-addr = 3NhJbZTgE433cs9ieKqVPMP5BZXwtoooEVVGzfbxY7a8
 vault_init = https://explorer.solana.com/tx/cYGB7QvxGdjiAMtJgTGJeNDuGRyxTQB2p7dVr2KTRmGJreQJeyUCC5ADf8nEwpSqdwLyHQSFJ8ahm4kjH2ndKR4?cluster=devnet
 vaultState = 6dLjv3nD9Q4LfPp1S3ZthJ57pGbVnTtk8d7d2FNGctHa
 vaultDeposit = https://explorer.solana.com/tx/h2uNx8JywCRyG8zpD6LmdfC17BZZBdMFkvAhhBKF8H4JSZZP3tkEZCQzREFgAEGZUNWL2R9fbZxn14BGiCzjzKi?cluster=devnet
+depositSpl = https://explorer.solana.com/tx/mYF7mvtXdKwKvizB49PHfV3P3P4kjyeMTx2mcv7PywJGuXBatuXXTsh1YPQmDBEvTwn2VjJvdpdLzAP4TREzezq?cluster=devnet
+depositnft = https://explorer.solana.com/tx/meWobX16fhdWtSeLUCkXhvffJcuKQ51szGNQ61RX2QjLmeZayc4f5jyi2En1ih69x1dbR2ptWQFibPPkVhNY54h?cluster=devnet
