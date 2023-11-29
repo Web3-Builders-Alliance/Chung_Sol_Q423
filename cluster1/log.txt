@@ -4,3 +4,7 @@ spl_metadata = https://explorer.solana.com/address/6HUgTG9S3ybExn9ZdbkrPzHh3sPMu
 nft_image = https://arweave.net/WJYVuIU9EulxVrlin7sSxmGyQdvLCMKYMwGgNsYL0Bk
 nft_metadata = https://arweave.net/ADQcPoycal9OzZbwTrrJjCdoSsy08KObv1RcyniCIVs
 nft-mint-addr = 3NhJbZTgE433cs9ieKqVPMP5BZXwtoooEVVGzfbxY7a8
+
+vault_init = https://explorer.solana.com/tx/cYGB7QvxGdjiAMtJgTGJeNDuGRyxTQB2p7dVr2KTRmGJreQJeyUCC5ADf8nEwpSqdwLyHQSFJ8ahm4kjH2ndKR4?cluster=devnet
+vaultState = 6dLjv3nD9Q4LfPp1S3ZthJ57pGbVnTtk8d7d2FNGctHa
+vaultDeposit = https://explorer.solana.com/tx/h2uNx8JywCRyG8zpD6LmdfC17BZZBdMFkvAhhBKF8H4JSZZP3tkEZCQzREFgAEGZUNWL2R9fbZxn14BGiCzjzKi?cluster=devnet
